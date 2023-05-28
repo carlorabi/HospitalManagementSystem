@@ -16,4 +16,4 @@ and collaboration among departments.
 * Appointment Scheduling: The system enables patients to schedule appointments 
 with doctors of their choice based on availability. It offers an intuitive interface for 
 selecting suitable time slots, reducing waiting times, and ensuring a smooth patient 
-experience
+experience.
