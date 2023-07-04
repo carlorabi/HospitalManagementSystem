@@ -1,5 +1,7 @@
 # HospitalManagementSystem
 
+# Reminder:
+* use lower version of xampp to run this code
 # Key Features:
 * Patient Records Management: The system enables the addition and maintenance 
 of patient records, including personal information and contact details. This central 
